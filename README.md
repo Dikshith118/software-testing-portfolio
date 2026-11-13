@@ -3,7 +3,7 @@
 ## Software Testing Portfolio
 
 ### Project Details
-- **Subject:** Software Testing
+- **Subject:*** Software Testing
 - **Project Title:** Online Donation and Fundraising Management System
 - **Department:** Information Science and Engineering
 - **College:** M. S. Ramaiah Institute of Technology
